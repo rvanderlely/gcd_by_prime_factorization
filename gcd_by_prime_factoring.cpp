@@ -108,7 +108,7 @@ int main()
         std::cout<<factors2[i]<<" ";
     } 
     std::cout<<"\n"; 
-    //
+    //ds
 
 
     //HERE IS THE ERROR BELOW. It is overwriting my factor1 array 
