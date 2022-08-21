@@ -108,10 +108,6 @@ int main()
         std::cout<<factors2[i]<<" ";
     } 
     std::cout<<"\n"; 
-    //ds
-
-
-    //HERE IS THE ERROR BELOW. It is overwriting my factor1 array 
     std::cout<<"\nFirst number has "<<size1<<" prime factors";
     std::cout<<"The prime factors are :";
     for (int i = 0; i< size1;i++)
