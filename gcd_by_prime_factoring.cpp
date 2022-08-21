@@ -108,12 +108,6 @@ int main()
         std::cout<<factors2[i]<<" ";
     } 
     std::cout<<"\n"; 
-    std::cout<<"\nFirst number has "<<size1<<" prime factors";
-    std::cout<<"The prime factors are :";
-    for (int i = 0; i< size1;i++)
-    {
-        std::cout<<factors1[i]<<" ";
-    } 
 
 
     //Find the common elements
